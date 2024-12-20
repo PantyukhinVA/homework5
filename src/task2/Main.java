@@ -1,6 +1,6 @@
-package Task2;
+package task2;
 
-import Task2.Animals.*;
+import task2.animals.*;
 
 public class Main {
     public static void main(String[] args) {

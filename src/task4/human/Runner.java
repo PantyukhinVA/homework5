@@ -1,4 +1,4 @@
-package Task4.Human;
+package task4.human;
 
 public class Runner extends Human {
     public String getName() {

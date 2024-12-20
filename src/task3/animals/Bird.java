@@ -1,7 +1,7 @@
-package Task3.Animals;
+package task3.animals;
 
-import Task3.Animals.Common.Animal;
-import Task3.Animals.Interfaces.*;
+import task3.animals.common.Animal;
+import task3.animals.interfaces.*;
 
 public class Bird extends Animal implements Fly, Run, Swim {
     public String getName() {

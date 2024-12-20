@@ -1,6 +1,6 @@
-package Task4;
+package task4;
 
-import Task4.Human.*;
+import task4.human.*;
 
 public class Main {
     public static void main(String[] args) {

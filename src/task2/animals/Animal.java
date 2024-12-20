@@ -1,4 +1,4 @@
-package Task2.Animals;
+package task2.animals;
 
 public abstract class Animal {
     public abstract String getName();

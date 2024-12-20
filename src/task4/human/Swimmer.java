@@ -1,4 +1,4 @@
-package Task4.Human;
+package task4.human;
 
 public class Swimmer extends Human {
     public String getName() {

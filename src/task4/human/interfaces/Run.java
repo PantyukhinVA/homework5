@@ -1,4 +1,4 @@
-package Task3.Animals.Interfaces;
+package task4.human.interfaces;
 
 public interface Run {
     void run();
